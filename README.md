@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @HaichengL
 - 👀 My English is poor，so...
 - If I do anything puzzling on github, it must be a matter of me not being able to read English, so please don't care.
 - currently mainly learning R，mastering python superficially
